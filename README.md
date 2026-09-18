@@ -1,1 +1,5 @@
-# SC_302_Documentacion_MN_grupo8
+SC\_302\_Documentacion\_MN\_grupo8
+
+Esta es mi primera práctica con GitHub. (Saul Cambronero)
+===
+
